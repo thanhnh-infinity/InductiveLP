@@ -1,0 +1,1 @@
+ILASP --version=[2,2i,3] --clingo "clingo-4.3.0" <path_to_LAS_file>
